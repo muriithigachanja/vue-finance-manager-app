@@ -1,5 +1,6 @@
 # Installation
 npm install
+
 npm run serve
 
 
@@ -7,7 +8,6 @@ npm run serve
 
 - Vue3 (Composition API)
 - Firebase Firestore & Authenticator
-- Chart.js
 - Bootstrap
 
 ## How to Access
