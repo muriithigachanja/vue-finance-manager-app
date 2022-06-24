@@ -12,4 +12,4 @@ npm run serve
 
 ## How to Access
 
-By clicking ()
+By clicking (https://zftest.netlify.app/)
