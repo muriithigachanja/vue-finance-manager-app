@@ -72,7 +72,7 @@
           <button @click="closeModal" type="button" class="close">
             <span aria-hidden="true">&times;</span>
           </button>
-          <h5 class="card-title">Add Wallet</h5>
+          <h5 class="card-title">Send Money</h5>
 
           <form @submit.prevent="addWallet">
             <div class="form-group">
@@ -84,7 +84,7 @@
               <input v-model="amount" class="form-control" type="number" />
             </div>
             <div class="form-group">
-              <label>Users' Email</label>
+              <label>Recipient Email</label>
 
               <input
                 class="form-control"
